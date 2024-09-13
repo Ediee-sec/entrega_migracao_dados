@@ -1,0 +1,8 @@
+2024-09-13 00:13:02,873 - INFO - Processo iniciado
+2024-09-13 00:13:02,876 - INFO - Dados extraidos com sucesso!
+2024-09-13 00:13:02,886 - INFO - Dados transformados com sucesso!
+2024-09-13 00:13:02,886 - INFO - Pasta /home/emerson/codes/python/teste_tecnico_v4_company/python/../bucket_s3/20240913 criada com sucesso!
+2024-09-13 00:13:03,226 - INFO - Dados carregados com sucesso!
+2024-09-13 00:13:03,226 - INFO - Dashboards criados com sucesso!
+2024-09-13 00:13:03,226 - INFO - Arquivo /home/emerson/codes/python/teste_tecnico_v4_company/python/../bucket_s3/20240913/TREATED_SALES_FILE_D20240913_H001302.csv criado com sucesso!
+2024-09-13 00:13:03,226 - INFO - Processo finalizado
